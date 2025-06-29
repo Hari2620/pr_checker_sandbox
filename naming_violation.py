@@ -1,4 +1,4 @@
-# naming_violation.py
+# naming_violation.py - naming violation for agentic reviewer
 
 def CalculateSum(arr: list[int]) -> int:
     totalSum = 0
