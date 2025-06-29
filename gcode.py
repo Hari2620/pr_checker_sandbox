@@ -1,4 +1,4 @@
-# good_code.py
+# good_code.py - good code for agentic reviewer
 
 def calculate_sum(numbers: list[int]) -> int:
     """Return the sum of a list of integers."""
